@@ -153,23 +153,23 @@ main {
     position: relative;
   }
   #services .service {
-    background: #0e817c;
+    background: #002868;
     padding: 2.1em;
     width: 90%;
     margin: auto;
   }
   #services .service:nth-of-type(2) {
-    border-bottom: 0.05em solid rgba(73, 181, 176, 0.5);
+    border-bottom: 0.05em solid #002868;
   }
   #services .service:nth-of-type(2) {
-    background: #10625e;
+    background: #001639;
     width: 100%;
     box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
     order: 1;
     margin-bottom: 0;
   }
   #services .service:nth-of-type(2) .button-solid {
-    color: #10625e;
+    color: #002868;
   }
   #services .service:nth-of-type(2) .button-solid:before {
     background: var(--primary);
@@ -199,7 +199,7 @@ main {
   }
   #services .service .button-solid {
     background: #fff;
-    color: #10625e;
+    color: #002868;
   }
   #services .service .button-solid:hover {
     color: #fff;

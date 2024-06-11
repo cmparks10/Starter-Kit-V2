@@ -63,10 +63,10 @@
     scroll-behavior: smooth;
   }
   :root {
-    --primary: #0e817c;
-    --darkPrimary: #13726d;
-    --tint: #0e524e;
-    --shade: #49b5b0;
+    --primary: #002868;
+    --darkPrimary: #012052;
+    --tint: #0f2851;
+    --shade: #3f6fbc;
   }
   body,
   html {
